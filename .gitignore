@@ -49,8 +49,8 @@ build/
 frontend/ReactFrontend/client/dist/
 frontend/ReactFrontend/.vite/
 
-# Uploads (optional - uncomment if you don't want to track uploaded files)
-# backend/uploads/
+# Uploads (do not track uploaded files)
+backend/uploads/
 
 # Temporary files
 *.tmp
